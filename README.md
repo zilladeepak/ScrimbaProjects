@@ -1,4 +1,4 @@
-# ScrimbaProjects
+# My Scrimba Projects
 - This repository contains all my projects completed on the Scrimba learning platform.
 - I'm excited to share my progress and learnings with you!
 
